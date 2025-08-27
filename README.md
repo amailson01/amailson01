@@ -14,10 +14,10 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e iniciante em **
 
 ## 🛠️ Tecnologias que estou estudando
 
-- `HTML` & `CSS` (para complementar o backend)
 - `Git` e `GitHub`
 - `SQL` & Bancos de Dados relacionais
 - `C#` como linguagem principal para backend
+- `HTML` & `CSS` (para complementar o backend)
 
 ---
 
