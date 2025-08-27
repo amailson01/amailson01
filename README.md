@@ -17,6 +17,7 @@ Sou um estudante de **Análise e Desenvolvimento de Sistemas** e iniciante em **
 - `HTML` & `CSS` (para complementar o backend)
 - `Git` e `GitHub`
 - `SQL` & Bancos de Dados relacionais
+- `C#` como linguagem principal para backend
 
 ---
 
